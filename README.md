@@ -14,10 +14,10 @@
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
-
+<!--
 <h1 align="center">Hi 👋, I'm Jake</h1>
 <h3 align="center">A passionate software developer</h3>
-
+-->
 - 🌱 I’m currently learning **Docker, Kubernetes, Swift**
 
 - 👨‍💻 All of my projects are available at [https://github.com/Chan-Man-Lock-Jake](https://github.com/Chan-Man-Lock-Jake)
