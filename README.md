@@ -1,5 +1,5 @@
 # 💫 About Me:
-🌱 I’m currently learning Docker, Kubernetes, Swift<br><br>👨‍💻 All of my projects are available at https://github.com/Chan-Man-Lock-Jake<br><br>/*⚡ Fun fact I am a failure*/
+🌱 I’m currently learning Docker, Kubernetes, Swift<br><br>👨‍💻 All of my projects are available at https://github.com/Chan-Man-Lock-Jake<br><br><!--⚡ Fun fact I am a failure -->
 
 
 # 💻 Tech Stack:
